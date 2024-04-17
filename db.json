@@ -1,0 +1,37 @@
+{
+  "profesores": [
+    {
+      "nombre": "pablo",
+      "materia": "fisica",
+      "universidad": "distrital"
+    },
+    {
+      "nombre": "ximena",
+      "materia": "ingles",
+      "universidad": "nacionalo"
+    },
+    {
+      "0": {
+        "nombre": "maria",
+        "materia": "fisica",
+        "universidad": "distrital"
+      },
+      "1": {
+        "nombre": "rosa",
+        "materia": "ingles",
+        "universidad": "nacionalo"
+      },
+      "id": "7cd7"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "alicia"
+    },
+    {
+      "id": "3239",
+      "nombre": "marcelo",
+      "apellido": "rosas"
+    }
+  ]
+}
